@@ -1,0 +1,18 @@
+[
+  {
+    "title": "My First Post",
+    "author": "John Doe",
+    "date": "2025-07-01T00:00:00.000Z",
+    "imageUrl": "assets/img/krasi/shutterstock_2476376411.jpg",
+    "excerpt": "This is a short intro to my first post.",
+    "content": "Here is the full content of the post..."
+  },
+  {
+    "title": "Another Article",
+    "author": "John Doe",
+    "date": "2025-07-20T00:00:00.000Z",
+    "imageUrl":"assets/img/krasi/shutterstock_381746308.jpg",
+    "excerpt": "Quick thoughts on Angular.",
+    "content": "Full article content here..."
+  }
+]
