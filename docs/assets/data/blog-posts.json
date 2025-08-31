@@ -1,0 +1,18 @@
+[
+  {
+    "title": "My First Post",
+    "author": "John Doe",
+    "date": "2025-07-01T00:00:00.000Z",
+    "imageUrl": "assets/img/krasi/shutterstock_2476376411-min.jpg",
+    "excerpt": "Оценка на риска",
+    "content": "Анализираме всички възможности и избираме най-оптималния..."
+  },
+  {
+    "title": "Another Article",
+    "author": "John Doe",
+    "date": "2025-07-20T00:00:00.000Z",
+    "imageUrl":"assets/img/krasi/shutterstock_381746308-min.jpg",
+    "excerpt": "Блог",
+    "content": "Вашите интереси..."
+  }
+]
